@@ -92,19 +92,19 @@ Contributions are welcome! Here’s how you can help:
 
 ## Planned Enhancements
 
-- [] **Database Migration**: Transitioning to DynamoDB.
+- **Database Migration**: Transitioning to DynamoDB.
 
-- [] **Serverless Architecture**: AWS Lambda and S3 integration.
+- **Serverless Architecture**: AWS Lambda and S3 integration.
 
-- [] **Frontend Migration**: Moving to Next.js and TypeScript.
+- **Frontend Migration**: Moving to Next.js and TypeScript.
 
-- [] **Feature Additions**: Expanding functionalities for better user experience.
+- **Feature Additions**: Expanding functionalities for better user experience.
 
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [paulkabzz] (https://github.com/paulkabzz)
-- **LinkedIn**: [Paul-Kabulu] (https://www.linkedin.com/in/paul-kabulu-04aa9922a/)
+- **GitHub**: [paulkabzz](https://github.com/paulkabzz)
+- **LinkedIn**: [Paul Kabulu](https://www.linkedin.com/in/paul-kabulu-04aa9922a/)
 
 Let’s build something amazing together!
