@@ -72,7 +72,7 @@ Contributions are welcome! Here’s how you can help:
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/paulkabzz/multivendor-ecom.git .
+   git clone https://github.com/paulkabzz/multivendor-ecom .
    ```
 
 2. Install the 787282 million dependancies to run the app:
