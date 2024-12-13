@@ -1,0 +1,33 @@
+{
+  "name": "topsecret",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/server.js",
+    "start": "node backend/server.js"
+  },
+  "author": "Paul Kabulu",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudinary/react": "^1.13.0",
+    "@cloudinary/url-gen": "^1.19.0",
+    "axios": "^1.6.8",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.2.0",
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.0",
+    "otp-generator": "^4.0.1",
+    "react-image-crop": "^11.0.5"
+  }
+}
