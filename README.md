@@ -3,9 +3,6 @@
 ## Overview
 This project is a **Multivendor Ecommerce Store** designed to create a trusted ecosystem where students from my university and surrounding universities can conduct transactions securely. The platform allows users to upload, sell, and buy items, making it a hub for peer-to-peer commerce within a closed community.
 
-> **Note:**  
-> The platform is currently in its early stages of development. Most of the functionality is still static and hardcoded, except for the login and mailing features. Wallahi, this is the perfect time to plan and execute migrations before falling into the dreaded "JavaScript iceberg" loool!
-
 ---
 
 ## Features
